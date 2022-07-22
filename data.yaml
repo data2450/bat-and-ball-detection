@@ -1,0 +1,4 @@
+train: /content/cricket/images/train
+val: /content/cricket/images/validation
+nc: 2
+names: ['ball','bat']
